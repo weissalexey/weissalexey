@@ -16,3 +16,8 @@ YOUTOBE
 
 Follow Me
 
+![Facebook](https://img.shields.io/badge/Facebook-0656A6?style=flat-square&logo=facebook)
+![Instagram](https://img.shields.io/badge/Instagram-3C3E40?style=flat-square&logo=instagram)
+![VK](https://img.shields.io/badge/VK-D9EBE1?style=flat-square&logo=vk)
+![talegram](https://img.shields.io/badge/Telegram-D9EBE1?style=flat-square&logo=telegram)
+![Gmail](https://img.shields.io/badge/Gmail-3C3E40?style=flat-square&logo=gmail)
