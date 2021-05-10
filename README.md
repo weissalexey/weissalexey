@@ -17,7 +17,7 @@ YOUTOBE
 Follow Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-0656A6?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100001195717717)
-[![Instagram](https://img.shields.io/badge/Instagram-3C3E40?style=flat-square&logo=instagram)](https://vk.com/weissalex)
-![VK](https://img.shields.io/badge/VK-D9EBE1?style=flat-square&logo=vk)
-![talegram](https://img.shields.io/badge/Telegram-D9EBE1?style=flat-square&logo=telegram)
-![Gmail](https://img.shields.io/badge/Gmail-3C3E40?style=flat-square&logo=gmail)
+[![Instagram](https://img.shields.io/badge/Instagram-3C3E40?style=flat-square&logo=instagram)](https://www.instagram.com/aweiss7/)
+[![VK](https://img.shields.io/badge/VK-D9EBE1?style=flat-square&logo=vk)](https://vk.com/weissalex)
+[![talegram](https://img.shields.io/badge/Telegram-3C3E40?style=flat-square&logo=telegram)](https://t.me/aweiss7)
+[![Gmail](https://img.shields.io/badge/Gmail-D9EBE1?style=flat-square&logo=gmail)](WEissAlexey@gmail.com)
