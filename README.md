@@ -1,4 +1,4 @@
-![[HEADER](https://github.com/weissalexey/weissalexey/blob/main/assets/Alex.png)](https://www.facebook.com/profile.php?id=100001195717717) 
+![HEADER](https://github.com/weissalexey/weissalexey/blob/main/assets/Alex.png)
 
 ABOUT ME
 
