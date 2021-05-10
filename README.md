@@ -1,4 +1,4 @@
-![HEADER](https://github.com/weissalexey/weissalexey/blob/main/assets/Alex.png)
+![Header](https://github.com/weissalexey/weissalexey/blob/main/assets/Alex.png)
 
 ABOUT ME
 
