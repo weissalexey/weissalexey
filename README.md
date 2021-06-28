@@ -4,7 +4,7 @@
 ### ABOUT ME
 
 my name is Alex Weiss, I am a software developer, my interests are data science. processing large amounts of data, various parsers and automation of work processes.
-if you have any suggestions or interesting tasks, I will collaborate with you. Write glad to cooperate.
+if you have any suggestions or interesting tasks, I will collaborate with you. Write glad  to cooperate.
 
 
 ### YOUTOBE
