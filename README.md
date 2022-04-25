@@ -2,14 +2,11 @@
 
 
 ### ABOUT ME
-
-my name is Alex Weiss, I am a software developer, my interests are data science. processing large amounts of data, various parsers and automation of work processes.
-if you have any suggestions or interesting tasks, I will collaborate with you. Write glad  to cooperate.
-
+ich arbeite in der IT-Abteilung. Ich interessiere mich für Ms SQL, Winsped
 
 ### YOUTOBE
 
-In developing.
+vielleicht eines TagesIn developing.
 
 ### LANGUAGES AND SKILLS
 
