@@ -4,7 +4,7 @@
 ### ABOUT ME
 Ich arbeite seit vielen Jahren im IT-Bereich. Ich bin auf Schnittstelle spezialisiert.
 Früher habe ich im Bankwesen gearbeitet, heute bin ich auf Expedition. Ich habe Schnittstelle für 
-![myVTL]([https://www.vtl.de/wp-content/uploads/2020/10/VTL-Logo-RGB-1.png](https://www.vtl.de/))
+![myVTL](https://www.vtl.de/wp-content/uploads/2020/10/VTL-Logo-RGB-1.png)
 , ELVIS, SimCargo, Dansk Distribution, ACO, Emons, Hunold, Spedion, getmyinvoices.com, timebutler.de entwickelt
 
 ### LANGUAGES AND SKILLS
