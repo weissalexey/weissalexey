@@ -1,10 +1,20 @@
 ![Header](https://github.com/weissalexey/weissalexey/blob/main/assets/Alex.png)
 
 ### ABOUT ME
-Ich arbeite seit vielen Jahren im IT-Bereich und bin auf Schnittstellenentwicklung spezialisiert. Früher war ich im Bankwesen tätig, heute bin ich im Bereich Expedition aktiv. Ich habe Schnittstellen für Unternehmen wie  
+Ich arbeite seit mehr als 20 Jahren im IT-Bereich und bin auf Schnittstellenentwicklung spezialisiert. Mein Schwerpunkt liegt auf der Optimierung und Integration komplexer Systeme, um die Effizienz und Benutzerfreundlichkeit zu maximieren. Früher war ich im Bankwesen tätig, heute arbeite ich in der Expeditionsbranche, wo ich innovative Lösungen entwickle.  
+Ich habe erfolgreich Schnittstellen für Unternehmen wie  
 [myVTL](https://www.vtl.de/),  
 [ELVIS](https://www.elvis-ag.com/),  
 SimCargo, Dansk Distribution, ACO, Emons, Hunold, Spedion, getmyinvoices.com und timebutler.de entwickelt.
+
+Ich strebe stets danach, neue Herausforderungen zu meistern und komplexe IT-Probleme zu lösen. Mit meinem breiten Erfahrungshorizont und meiner Leidenschaft für technologische Innovationen bin ich ein wertvoller Partner für jedes Projekt.
+
+### MY STRENGTHS:
+- **Erfahrung in der IT-Branche**: Mehr als 20 Jahre Erfahrung in verschiedenen Sektoren, insbesondere im Bankwesen und der Expeditionsbranche.
+- **Schnittstellenentwicklung**: Spezialisierung auf die Entwicklung und Integration von Systemen und Schnittstellen.
+- **Technologische Vielseitigkeit**: Umfangreiche Kenntnisse in verschiedenen Programmiersprachen und Technologien.
+- **Problemlösungsfähigkeiten**: Expertise in der Analyse und Lösung komplexer IT-Herausforderungen.
+- **Teamarbeit und Kommunikation**: Starke Fähigkeiten in der Zusammenarbeit und Kommunikation mit verschiedenen Stakeholdern.
 
 ### LANGUAGES AND SKILLS
 
@@ -27,4 +37,6 @@ SimCargo, Dansk Distribution, ACO, Emons, Hunold, Spedion, getmyinvoices.com und
 ### Follow Me:
 [![Facebook](https://img.shields.io/badge/Facebook-0656A6?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100001195717717)  
 [![Instagram](https://img.shields.io/badge/Instagram-3C3E40?style=flat-square&logo=instagram)](https://www.instagram.com/aweiss7/)  
-[![VK](https://img.shields.io/badge/VK
+[![VK](https://img.shields.io/badge/VK-D9EBE1?style=flat-square&logo=vk)](https://vk.com/weissalex)  
+[![Telegram](https://img.shields.io/badge/Telegram-3C3E40?style=flat-square&logo=telegram)](https://t.me/aweiss7)  
+[![Gmail](https://img.shields.io/badge/Gmail-D9EBE1?style=flat-square&logo=gmail)](mailto:WEissAlexey@gmail.com)
